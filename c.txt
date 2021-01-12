@@ -1,1 +1,2 @@
 text file 3
+(This Repo is just for learning how to use git and github)
